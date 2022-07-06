@@ -2,21 +2,31 @@
 Utility widget and Remote control widgets 
 
 
+1. Utility Widget File path - UserInterface/NewEditorUtilityWidgetBlueprint.uasset 
 
-1. Utility Widget - UserInterface/NewEditorUtilityWidgetBlueprint.uasset
+  
 
- 
-Functions of Utility Widget -
-Add Lightcard
-Duplicate
-Destroy
-Rename
-Scale - Click scale to change after setting values
-Location - Real time update in x-y-z axes
-Rotation - Real time update in x-y-z axes
-Set opacity and Shape currently disabled
+Functions of Utilty Widget - 
 
-*Please select the lightcard before applying any function of utility widget*
+Add Lightcard 
+
+Duplicate 
+
+Destroy 
+
+Rename 
+
+Scale - Click scale to change after setting values 
+
+Location - Real time update in x-y-z axes 
+
+Rotation - Real time update in x-y-z axes 
+
+Set opacity and Shape currently disabled 
+
+  
+*Please select the lightcard before applying any function of utility widget* 
 
 
-2. Remote Control - RemoteControl/
+
+2. Remote Control File path - RemoteControl/
