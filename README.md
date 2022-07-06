@@ -1,10 +1,7 @@
 # UnrealEngineTools-UI-and-Remote Lightcard-
 Utility widget and Remote control widgets 
 
-
 1. Utility Widget File path - UserInterface/NewEditorUtilityWidgetBlueprint.uasset 
-
-  
 
 Functions of Utilty Widget - 
 
