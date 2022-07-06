@@ -26,4 +26,4 @@ Set opacity and Shape currently disabled
 
 
 
-2. Remote Control File path - RemoteControl/
+2. Remote Control File path - RemoteControl/LightCards_WebRemote-Api.uasset
